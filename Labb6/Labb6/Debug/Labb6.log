@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\filip\desktop\labb6\labb6\string.h(40): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  StringIttTest.cpp
+c:\users\filip\desktop\labb6\labb6\string.h(40): warning C4018: '<': signed/unsigned mismatch
+  String.cpp
+c:\users\filip\desktop\labb6\labb6\string.h(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb6\labb6\string.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb6\labb6\string.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Labb6.vcxproj -> C:\Users\filip\Desktop\Labb6\Debug\Labb6.exe
+  Labb6.vcxproj -> C:\Users\filip\Desktop\Labb6\Debug\Labb6.pdb (Partial PDB)

@@ -1,0 +1,15 @@
+﻿  String.cpp
+c:\users\filip\desktop\labb5\labb5\string.h(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(131): warning C4018: '>': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(140): warning C4101: 'e': unreferenced local variable
+c:\users\filip\desktop\labb5\labb5\string.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(198): warning C4018: '>': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip\desktop\labb5\labb5\string.cpp(239): warning C4018: '<': signed/unsigned mismatch
+  Labb5.vcxproj -> C:\Users\filip\Desktop\Labb5\Debug\Labb5.exe
+  Labb5.vcxproj -> C:\Users\filip\Desktop\Labb5\Debug\Labb5.pdb (Partial PDB)
